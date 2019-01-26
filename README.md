@@ -23,4 +23,5 @@ After this, an icon will appear on browser's top extension bar.
 ##Working
 
 On any page, click on extension icon ("R"), 2 files will download (viz. current-state.json, initial-state.json), containing store states. 
+PS. It works on react 16 only (can be made backward compatible though).
 
